@@ -10,7 +10,6 @@
 </p>
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoxyNJ&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoxyNJ&show_icons=true&count_private=true&include_all_commits=true&title_color=4169E1&icon_color=00BFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&layout=compact&custom_title=I%20use&title_color=4169E1&card_width=445)
 </div>
+
