@@ -1,6 +1,12 @@
 # <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="#">Moxy Ninjee<a></h1>
 <p align="center">
-    <img width="200" src="#">
+  <samp>
+    <br>:wave: Welcome to my github.
+    <br>My current learning focus is on the front-end related basic knowledge. :sparkles:
+    <br>Am looking forward to self improvement. :grinning:
+    <br>
+    <img src="./image/happy.gif" width="240px" align="center">
+  </samp>
 </p>
 
 <div align="center">
