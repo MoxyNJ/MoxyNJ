@@ -10,6 +10,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoxyNJ&count_private=true&show_icons=true&include_all_commits=true" alt="Moxy's Github Stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&hide=TeX&layout=compact alt="Top Langs" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445" alt="Moxy's Github Stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445 alt="Top Langs" >
 </div>
