@@ -10,6 +10,7 @@
 </p>
 
 <div align="center">
-  ![Moxy's Github Stats](https://github-readme-stats.vercel.app/api?username=MoxyNJ&count_private=true&show_icons=true&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&hide=TeX&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+  <img src="https://github-readme-stats.vercel.app/api?username=MoxyNJ&count_private=true&show_icons=true&include_all_commits=true" alt="Moxy's Github Stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoxyNJ&hide=TeX&layout=compact alt="Top Langs" >
 </div>
