@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MoxyNJ/MoxyNJ/main/image/Hi.gif" width="30px" />, I'm <a href="#">Moxy Ninjee<a></h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MoxyNJ/MoxyNJ/main/image/Hi.gif" width="30px" />, I'm <a href="#">Ninjee Hou<a></h1>
 <p align="center">
   <samp>
     <br>:wave: Welcome to my github.
