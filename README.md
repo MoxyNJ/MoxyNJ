@@ -5,7 +5,6 @@
     <br>My current learning focus is on the front-end related basic knowledge. :sparkles:
     <br>Am looking forward to self improvement. :grinning:
     <br>
-    // <img src="https://raw.githubusercontent.com/MoxyNJ/MoxyNJ/main/image/happy.gif" width="240px" align="center">
   </samp>
 </p>
 
